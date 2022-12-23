@@ -1,2 +1,2 @@
-# BedsuylandingPage
+# BedstuylandingPage
 BedStuy Tech Website 
